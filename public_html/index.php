@@ -4,9 +4,10 @@
 	<head>
 
 		<meta charset="utf-8" />
+		<link rel="Browser Tab Icon" href="img/icon-php-file.jpg" type="image/jpg">
 
 		<!-- Add CSS file -->
-		<link href="css/stylesheet.css" rel="" type="" />
+		<link href="css/stylesheet.css" rel="" type="text/css" />
 
 		<title>Repository 2: HTML Sandbox</title>
 
