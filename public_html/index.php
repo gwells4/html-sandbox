@@ -34,24 +34,31 @@
 
 			<!-- Begin section 3 -->
 			<section>
+
 				<table>
+
 					<tr>
 						<th>Column One</th>
 						<th>Column Two</th>
 					</tr>
+
 					<tr>
-						<td>content</td>
-						<td>content</td>
+						<td>Cat</td>
+						<td>Dog</td>
 					</tr>
+
 					<tr>
-						<td>content</td>
-						<td>content</td>
+						<td>Car</td>
+						<td>Bike</td>
 					</tr>
+
 					<tr>
-						<td>content</td>
-						<td>content</td>
+						<td>Star Wars</td>
+						<td>Star Trek</td>
 					</tr>
+
 				</table>
+
 			</section>
 
 		</main>
