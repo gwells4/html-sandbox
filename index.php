@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<meta charset="utf-8" />
-<html>
+<html lang="en">
 	<head>
+		<meta charset="utf-8" />
 		<title>Repository 2: HTML Sandbox</title>
 	</head>
 	<body>
