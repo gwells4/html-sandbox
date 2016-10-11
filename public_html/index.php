@@ -2,8 +2,14 @@
 <html lang="en">
 
 	<head>
-		<meta charset="utf-8">
+
+		<meta charset="utf-8" />
+
+		<!-- Add CSS file -->
+		<link href="css/stylesheet.css" rel="" type="" />
+
 		<title>Repository 2: HTML Sandbox</title>
+
 	</head>
 
 	<body>
