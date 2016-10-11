@@ -24,17 +24,36 @@
 
 			<!-- Begin section 2 -->
 			<section>
-
+				<h2>My Favorite Things</h2>
+				<ul>
+					<li>Senator Arlo</li>
+					<li>Star Wars</li>
+					<li>Donuts</li>
+				</ul>
 			</section>
+
+			<!-- Begin section 3 -->
 			<section>
-
+				<table>
+					<tr>
+						<th>Column 1 Heading</th>
+						<th>Column 2 Heading</th>
+					</tr>
+					<tr>
+						<td>content</td>
+						<td>content</td>
+					</tr>
+					<tr>
+						<td>content</td>
+						<td>content</td>
+					</tr>
+					<tr>
+						<td>content</td>
+						<td>content</td>
+					</tr>
+				</table>
 			</section>
-			<ul>
 
-			</ul>
-			<table>
-
-			</table>
 		</main>
 
 	</body>
