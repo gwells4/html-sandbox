@@ -36,8 +36,8 @@
 			<section>
 				<table>
 					<tr>
-						<th>Column 1 Heading</th>
-						<th>Column 2 Heading</th>
+						<th>Column One</th>
+						<th>Column Two</th>
 					</tr>
 					<tr>
 						<td>content</td>
