@@ -4,6 +4,9 @@
 	<head>
 
 		<meta charset="utf-8" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1"/> <!-- For responsive sites, makes media inquiries behave consistently across devices. -->
+
 		<link rel="Browser Tab Icon" href="img/icon-php-file.jpg" type="image/jpg">
 
 		<!-- Add CSS file -->
